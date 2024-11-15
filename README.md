@@ -29,16 +29,16 @@ Com o avanço da tecnologia e a nostalgia em alta, a **Rebobine** busca oferecer
 ### 📱 **Telas do Aplicativo**  
 
 #### 1. Tela de Login  
-![Tela de Login](https://github.com/user-attachments/assets/1c00ac01-6cb1-4e70-a429-9008d490d7d6)  
+![Tela de Login](https://github.com/ANAMARIAZAVA/androidStudioProjetoRebobine/blob/main/ImagemReadme/Loguin%20do%20Usu%C3%A1rio%20-%20Copia.jpeg?raw=true)  
 
 #### 2. Tela de Cadastro de Cliente  
-![Tela de Cadastro de Cliente](https://via.placeholder.com/500x300)  
+![Tela de Cadastro de Cliente] (https://github.com/ANAMARIAZAVA/androidStudioProjetoRebobine/blob/main/ImagemReadme/Tela%20de%20Cadastro%20Usuario%20ou%20fornecedor.jpeg?raw=true)  
 
-#### 3. Tela de Catálogo de Filmes  
-![Tela de Catálogo de Filmes](https://via.placeholder.com/500x300)  
+#### 3. Tela de Cadastro do Filme.  
+![Tela de Catálogo de Filmes]()  
 
 #### 4. Tela de Registro de Locação  
-![Tela de Registro de Locação](https://via.placeholder.com/500x300)  
+![Tela de Registro de Locação](https://github.com/ANAMARIAZAVA/androidStudioProjetoRebobine/blob/main/ImagemReadme/Tela%20administrador%20ao%20consultar%20o%20%20filme.jpeg?raw=true)  
 
 *Observação: Este Projeto esta ainda em desenvolvimento, Então este RedMi Será atualizado*  
 
