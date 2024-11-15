@@ -35,8 +35,8 @@ Com o avanço da tecnologia e a nostalgia em alta, a **Rebobine** busca oferecer
 ![Tela de Cadastro de Cliente](https://github.com/ANAMARIAZAVA/androidStudioProjetoRebobine/blob/main/ImagemReadme/Tela%20de%20Cadastro%20Usuario%20ou%20fornecedor.jpeg?raw=true=300x200)
 
 
-#### 3. Tela de Cadastro do Filme.  300x200
-![Tela de Catálogo de Filmes]()  
+#### 3. Tela de Cadastro do Filme.
+![Tela de Catálogo de Filmes](https://github.com/ANAMARIAZAVA/androidStudioProjetoRebobine/blob/main/ImagemReadme/2%20Tela%20Usuario%20logado%20-%20Copia.jpeg?raw=true=300x200)  
 
 #### 4. Tela de Registro de Locação  
 ![Tela de Registro de Locação](https://github.com/ANAMARIAZAVA/androidStudioProjetoRebobine/blob/main/ImagemReadme/Tela%20administrador%20ao%20consultar%20o%20%20filme.jpeg?raw=true=300x200)  
