@@ -39,7 +39,7 @@ Com o avanço da tecnologia e a nostalgia em alta, a **Rebobine** busca oferecer
 ![Tela de Catálogo de Filmes]()  
 
 #### 4. Tela de Registro de Locação  
-![Tela de Registro de Locação](https://github.com/ANAMARIAZAVA/androidStudioProjetoRebobine/blob/main/ImagemReadme/Tela%20administrador%20ao%20consultar%20o%20%20filme.jpeg?raw=true)  
+![Tela de Registro de Locação](https://github.com/ANAMARIAZAVA/androidStudioProjetoRebobine/blob/main/ImagemReadme/Tela%20administrador%20ao%20consultar%20o%20%20filme.jpeg?raw=true=300x200)  
 
 *Observação: Este Projeto esta ainda em desenvolvimento, Então este RedMi Será atualizado*  
 
