@@ -40,7 +40,7 @@ Com o avanço da tecnologia e a nostalgia em alta, a **Rebobine** busca oferecer
 #### 4. Tela de Registro de Locação  
 ![Tela de Registro de Locação](https://via.placeholder.com/500x300)  
 
-*Observação: As imagens são representativas. Substitua pelas capturas reais do projeto.*  
+*Observação: Este Projeto esta ainda em desenvolvimento, Então este RedMi Será atualizado*  
 
 ---
 
